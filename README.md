@@ -2,7 +2,6 @@
 Build your own RFID lock and allow only authorized people to access your locker!
 
 ## Hardware Required
-- [Kuriosity Raspberry Pi Starter Kit](https://www.kuriosity.sg/raspberry-pi-starter-kit)
 - [Arduino Uno] (https://www.kuriosity.sg/arduino-uno-oem/)
 - [Relay Module 1 Channel 5V] (https://www.kuriosity.sg/relay-module-1-channel-5v/)
 - [RFID / NFC Module PN532 13.56MHz] (https://www.kuriosity.sg/rfid-nfc-module-pn532-13-56mhz/)
